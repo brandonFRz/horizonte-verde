@@ -2,14 +2,6 @@
 
 **Horizonte Verde** es un sistema de reservas para una serie de cabañas de lujo situadas en los Alpes suizos. El proyecto está desarrollado con **Next.js** y **Supabase** para manejar la autenticación, almacenamiento de datos y la lógica de negocio.
 
-## Índice
-
-- [Características](#características)
-- [Tecnologías utilizadas](#tecnologías-utilizadas)
-- [Instalación y configuración](#instalación-y-configuración)
-- [Uso](#uso)
-- [Estructura del proyecto](#estructura-del-proyecto)
-
 
 ## Características
 
