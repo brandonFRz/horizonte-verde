@@ -6,6 +6,10 @@ import { Booking } from '@/app/types/Bookings'
 import { getBookings } from '@/app/lib/data-service'
 import ReservationList from '@/app/components/Reservation/ReservationList'
 
+export const metadata = {
+	title: "Reservaciones",
+  };
+
 //Esta pagina asegura que los usuarios puedan visualizar y gestionar sus reservaciones
 export default async function Page() {
 	// Obtiene la sesión actual del usuario.

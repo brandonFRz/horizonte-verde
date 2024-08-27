@@ -4,6 +4,10 @@ import Spinner from "../ui/Spinner";
 import Filter from "../components/Cabin/Filter";
 import ReservationReminder from "../components/Reservation/ReservationReminder"
 
+export const metadata = {
+  title: "Lista de Cabañas",
+};
+
 ///Interfaces///
 interface PageProps {
   searchParams: { capacity: string };

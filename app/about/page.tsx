@@ -5,6 +5,10 @@ import image2 from "@/public/about-2.jpg";
 import { getCabins } from "../lib/data-service";
 import { Cabins } from "@/app/types/Cabins";
 
+export const metadata = {
+  title: "Acerca de nosotros",
+};
+
 // Configuramos la revalidación para que los datos se actualicen cada 86400 segundos (1 día).
 export const revalidate = 86400;
 

@@ -2,7 +2,7 @@
 import Image from "next/image";
 import {signIn} from "next-auth/react";
 
-
+// Componente para manejar el botón de inicio de sesión con Google.
 function SignInButton() {
   const handleSignIn = async () => {
     await signIn("google", {callbackUrl: "/account"});

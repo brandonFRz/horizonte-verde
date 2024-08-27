@@ -8,7 +8,7 @@ import { Guest } from "@/app/types/Guest";
 import { redirect } from "next/navigation";
 
 export const metadata = {
-  title: "Perfil",
+  title: "Perfil de usuario",
 };
 
 //Pagina que permite el actualizar el perfil del usuario.

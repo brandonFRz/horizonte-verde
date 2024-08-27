@@ -2,6 +2,10 @@ import Link from "next/link";
 import Image from "next/image";
 import bg from "../public/bg.png";
 
+export const metadata = {
+  title: "Home",
+};
+
 //Componente principal renderiza la pagina de inicio
 export default function Home() {
   return (

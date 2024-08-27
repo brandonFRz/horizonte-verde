@@ -3,6 +3,9 @@ import { authOptions } from "@/app/lib/auth";
 import { Session } from "@/app/types/Session";
 import { getServerSession } from "next-auth";
 
+export const metadata = {
+  title: "Bienvenido",
+};
 
 export default async function Page() {
   //obtiene la sesión del usuario actual utilizando las opciones de autenticación configuradas.

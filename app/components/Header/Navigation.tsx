@@ -34,11 +34,11 @@ export default async function Navigation() {
               href="/account"
             >
               <img
-                className="h-8 rounded-full"
+                className="h-8 rounded-full "
                 src={session.user.image}
                 alt={session.user.name}
                  referrerPolicy="no-referrer"/>
-              <span>Tu Cuenta</span>
+              <span >{session.user.name}</span>
             </Link>
           ) : (
             <Link

@@ -4,10 +4,12 @@ import "./styles/globals.css";
 
 import { Josefin_Sans } from "next/font/google";
 
+
 ///Interfaces///
 interface RootLayoutProps {
   children: React.ReactNode;
 }
+
 //Configuramos la fuente Josefin Sans con las opciones deseadas
 const josefin = Josefin_Sans({
   subsets: ["latin"], // Especificamos el subconjunto de caracteres latino.
