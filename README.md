@@ -61,4 +61,38 @@ npm run dev
 - /components: Componentes reutilizables como botones, formularios y cabeceras.
 - //lib: Funciones y servicios, incluyendo la lógica para manejar Supabase y la autenticación.
 - /middleware: Middleware para proteger las rutas que requieren autenticación
-  
+
+## Vista Previa
+Aquí hay una vista previa de cómo se ve la aplicación:
+
+
+### Inicio
+![Main-page](https://github.com/user-attachments/assets/1e2aa031-6317-412e-81c0-361879669e88)
+
+### Acerca de nosotros
+![About-page](https://github.com/user-attachments/assets/1554dc2d-e13d-4077-83d0-36ec5b1e6cbd)
+
+### Inicio de Sesión
+![signin-page](https://github.com/user-attachments/assets/3601966a-7b65-462b-8b4f-5cc299ff974a)
+
+### Cuenta
+![account-page](https://github.com/user-attachments/assets/8382df09-cbd7-4c36-b628-3c06bfb84372)
+
+### Lista de Cabañas
+![cabins-page](https://github.com/user-attachments/assets/6637f724-b61e-4645-84de-4e70f3f0130c)
+
+### Detalles de la cabaña y reserva
+![cabin-page](https://github.com/user-attachments/assets/74e8dfb7-a758-4927-bd8b-c6e1f5293b35)
+
+### Reservas
+![booking-page](https://github.com/user-attachments/assets/9361be49-c5d4-4e23-9a3e-bc710ffdc2b4)
+
+### Editar reserva
+![edit-booking](https://github.com/user-attachments/assets/09730e6b-e678-4ebb-9692-9980cd8a1081)
+
+### Editar perfil
+![edit-profile-page](https://github.com/user-attachments/assets/b97fa807-7dff-494b-ae9b-19f2e27b9625)
+
+### Pagina de agradecimiento
+![thanks-page](https://github.com/user-attachments/assets/9b8541f2-65b7-4fbf-8583-8654f3741eb4)
+
